@@ -15,4 +15,4 @@
 | Khandoker Al-Muhi Munem	 | 2203083	 | EEE	 | [Link](https://github.com/Munem03/Arduino-Projects) |
 | Jawad Ibne Hossen	 | 2203020	 | EEE	 | [Link](https://github.com/CodeWithJawad-eee/TinkerCad-Arduino-Projects) |
 | Md. Fuad Hasan Hamim	 | 2215029	 | BME | 	[Link](https://github.com/fuadhasanbme/TinkerCAD-projects) |
-| Shabique Islam	 | 2203030 | 	EEE | 	[Link](https://github.com/shabique7/TinkerCad-Projects) |
+| Shabique Islam 	 | 2203030 | 	EEE | 	[Link](https://github.com/shabique7/TinkerCad-Projects) |
